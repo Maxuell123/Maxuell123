@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maxuell&show_icons=true&theme=radical)
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/max_limas/)](https://www.instagram.com/max_limas/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/max_limas/)](https://www.instagram.com/max_limas/)
 
