@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maxuell&show_icons=true&theme=radical)
 - 🌱 I’m currently learning **HTML,** **CSS,** **JS,** **PYTHON,** **PHP.**
 - 🎓 I am currently studying ADS
+- 💻 Node, git Bash
+- 🚀 Learning is continuous and there will always be a next level
