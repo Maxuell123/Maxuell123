@@ -1,5 +1,5 @@
 ### Hello World 👋
-My name is Maxuell Lima dos Santos 👨‍🇧🇷
+My name is Maxuell Lima dos Santos 🧑🇧🇷
 
 I've been a Front-End developer since
 
