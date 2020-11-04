@@ -16,14 +16,5 @@ Here are some ideas to get you started:
 -->
 
 # Maxuell Lima
-
-title_color - Card's title color (hex color)
-text_color - Body text color (hex color)
-icon_color - Icons color if available (hex color)
-bg_color - Card's background color (hex color) or a gradient in the form of angle,start,end
-hide_border - Hides the card's border (boolean)
-theme - name of the theme, choose from all available themes
-cache_seconds - set the cache header manually (min: 1800, max: 86400)
-locale - set the language in the card (e.g. cn, de, es, etc.)
-
+- 🌱 I’m currently learning html css js Python php
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maxuell&show_icons=true&theme=radical)
