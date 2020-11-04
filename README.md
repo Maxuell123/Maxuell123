@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maxuell&show_icons=true&theme=radical)
 - 🌱 I’m currently learning **HTML,** **CSS,** **JS,** **PYTHON,** **PHP.**
--  🧑‍🎓 Atualmente estou cursando ADS
+- 🎓 I am currently studying ADS
