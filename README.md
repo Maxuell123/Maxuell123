@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Maxuell Lima:👨‍💻
+# Maxuell Lima 👨‍💻
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maxuell&show_icons=true&theme=radical)
-- 🌱 I’m currently learning html css js Python php
+- 🌱 I’m currently learning **html** css js Python php
