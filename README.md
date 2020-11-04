@@ -5,6 +5,8 @@ I've been a Front-End developer since
 
 Always open to new challenges and ready to face changes.
 
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+
 <!--
 **Maxuell123/Maxuell123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
