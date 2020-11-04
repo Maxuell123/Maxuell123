@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 Reach me out 👇🏼
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/max_limas/)](https://www.instagram.com/max_limas/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/max_limas/)](https://www.instagram.com/max_limas/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxuell-lima-dos-santos-8423671a8/)](https://www.linkedin.com/in/maxuell-lima-dos-santos-8423671a8/)
 
