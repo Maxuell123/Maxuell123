@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🚀 Learning is continuous and there will always be a next level
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maxuell&show_icons=true" alt="maxuell"/> 
+
 
 Reach me out 👇🏼
 
