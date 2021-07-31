@@ -4,6 +4,11 @@ My name is Maxuell Lima dos Santos 🧑🇧🇷
 I've been a Front-End developer since
 
 Always open to new challenges and ready to face changes.
+<div>
+  <a href="https://github.com/Maxuell123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxuell123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuell123&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
