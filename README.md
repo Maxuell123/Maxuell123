@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 # Maxuell Lima 👨‍💻
 
-- 🌱 I’m currently learning **HTML,** **CSS,** **JS,** **PYTHON,** **PHP.**
+- 🌱 I’m currently learning **HTML,** **CSS,** **JS,** **PYTHON,** **REACT.**
 - 🎓 I am currently studying ADS
 - 💻 Node, git Bash
 - 🚀 Learning is continuous and there will always be a next level
