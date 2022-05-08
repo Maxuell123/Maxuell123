@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 # Maxuell Lima 👨‍💻
 
-- 🌱 I’m currently learning **HTML,** **CSS,** **JS,** **PYTHON,** **REACT.**
+- 🌱 I’m currently learning **HTML,** **CSS,** **JS,** **PYTHON,** **REACT <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">.**
 - 🎓 I am currently studying ADS
 - 💻 Node, git Bash
 - 🚀 Learning is continuous and there will always be a next level
