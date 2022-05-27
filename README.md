@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 # Maxuell Lima 👨‍💻
 
-- 🌱 I’m currently learning **HTML <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">,** **CSS <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">,** **JS <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">,** **PYTHON <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">,** **REACT <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">.**
+- 🌱 I’m currently learning HTML, CSS, JS, REACT, PYTHON
 - 🎓 I am currently studying ADS
 - 💻 Node, git Bash
 - 🚀 Learning is continuous and there will always be a next level
