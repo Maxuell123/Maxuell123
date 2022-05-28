@@ -58,13 +58,13 @@ Reach me out 👇🏼
   
   ## 👨🏽‍🦲 &nbsp;Social Links
 
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="[https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter](https://twitter.com/maxuell_lima)" alt="twitter"/>  
+<a href="https://twitter.com/maxuell_lima" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="[https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin](https://www.linkedin.com/in/maxuell-lima-dos-santos-8423671a8/)" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/maxuell-lima-dos-santos-8423671a8/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="[https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram](https://www.instagram.com/max_limas/)" alt="instagram"/>
+<a href="https://www.instagram.com/max_limas/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
