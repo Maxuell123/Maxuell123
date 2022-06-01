@@ -1,4 +1,4 @@
-### <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, Hello World</h1>
+### <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Hello World</h1>
 My name is Maxuell Lima dos Santos 🧑🇧🇷
 
 I've been a Front-End developer since
