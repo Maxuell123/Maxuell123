@@ -1,4 +1,5 @@
 ### <h1 align="left">Hi , Hello World</h1>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 My name is Maxuell Lima dos Santos 🧑🇧🇷
 
@@ -29,7 +30,7 @@ Always open to new challenges and ready to face changes.
 
 <br><br>
   
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+
 
 <!--
 **Maxuell123/Maxuell123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
