@@ -1,5 +1,5 @@
 ### <h1 align="left">Hi , <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hello World</h1>
-<img align="right" src="https://raw.githubusercontent.com/gist/Maxuell123/02f44da83e36f9116a5493f03781c542/raw/1ec36324b24365d1449ff01609584c8b83695669/githubcard.svg">
+<img align="right" src="https://raw.githubusercontent.com/gist/Maxuell123/2da42c424ed25d14e1681c708964d2ab/raw/eb91b3ac484dac47b235ebd9fda8e991ad6f13ca/card.svg">
 
 My name is Maxuell Lima dos Santos 🧑🇧🇷
 
