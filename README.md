@@ -51,10 +51,14 @@ Here are some ideas to get you started:
 -->
 
 # Maxuell Lima 👨‍💻
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
+
 - 🌱 I’m currently learning HTML, CSS, JS, REACT, PYTHON
+
 - 🎓 I am currently studying ADS
+
 - 💻 Node, git Bash
+
 - 🚀 Learning is continuous and there will always be a next level
 
 
