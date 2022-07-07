@@ -1,6 +1,6 @@
 ### <h1 align="left">Hi , Hello World</h1>
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<img align="right" src="https://raw.githubusercontent.com/gist/Maxuell123/02f44da83e36f9116a5493f03781c542/raw/1ec36324b24365d1449ff01609584c8b83695669/githubcard.svg">
+<img " src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height=30px>
 My name is Maxuell Lima dos Santos 🧑🇧🇷
 
 I've been a Front-End developer since
@@ -23,6 +23,7 @@ Always open to new challenges and ready to face changes.
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
+
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Maxuell123&show_icons=true&theme=vision-friendly-dark" alt="MaxuellLima's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuell123&layout=compact&theme=vision-friendly-dark" alt="MaxuellLima's most languages"/>
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 -->
 
 # Maxuell Lima 👨‍💻
-
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 - 🌱 I’m currently learning HTML, CSS, JS, REACT, PYTHON
 - 🎓 I am currently studying ADS
 - 💻 Node, git Bash
