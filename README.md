@@ -78,3 +78,6 @@ Reach me out 👇🏼
  <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
