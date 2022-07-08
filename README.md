@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 Reach me out 👇🏼
   
-  ##🏽‍👨🏻‍💻 &nbsp;Social Links
+  # Social Links 👇
 
 <a href="https://twitter.com/maxuell_lima" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=twitter" alt="twitter"/>  
