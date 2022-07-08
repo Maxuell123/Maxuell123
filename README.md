@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Maxuell Lima 👨‍💻
+# Progress 👨‍💻
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
 
 - 🌱 I’m currently learning HTML, CSS, JS, REACT, PYTHON
