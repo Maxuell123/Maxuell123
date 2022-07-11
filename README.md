@@ -31,6 +31,8 @@ Always open to new challenges and ready to face changes.
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuell123&layout=compact&theme=vision-friendly-dark" alt="MaxuellLima's most languages"/>
 </p>
 
+<img align="top" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <br><br>
   
 
@@ -64,6 +66,7 @@ Here are some ideas to get you started:
 
 
 
+
 Reach me out 👇🏼
   
   # Social Links 👇
@@ -77,7 +80,4 @@ Reach me out 👇🏼
 <a href="https://www.instagram.com/max_limas/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
