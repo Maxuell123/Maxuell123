@@ -68,8 +68,8 @@ Reach me out 👇🏼
   
   # Social Links 👇
 
-<a href="https://twitter.com/maxuell_lima" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/maxuell_lima" >
+  <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=twitter" target="_blank" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/maxuell-lima-dos-santos-8423671a8/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
