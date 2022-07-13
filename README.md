@@ -7,7 +7,7 @@ I've been a Front-End developer since
 
 Always open to new challenges and ready to face changes.
 
-📫 Como chegar até mim: mu_maxwell@hotmail.com
+📫 How to reach me: mu_maxwell@hotmail.com
 
 ## 🛠 &nbsp;Tech Stack
 
