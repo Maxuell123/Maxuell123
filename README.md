@@ -31,7 +31,7 @@ Always open to new challenges and ready to face changes.
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuell123&layout=compact&theme=vision-friendly-dark" alt="MaxuellLima's most languages"/>
 </p>
 
-<img align="top" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <br><br>
   
