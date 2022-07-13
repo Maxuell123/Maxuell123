@@ -7,6 +7,8 @@ I've been a Front-End developer since
 
 Always open to new challenges and ready to face changes.
 
+📫 Como chegar até mim: mu_maxwell@hotmail.com
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
