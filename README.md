@@ -72,14 +72,8 @@ Here are some ideas to get you started:
 Reach me out 👇🏼
   
   # Social Links 👇
+<a href="https://www.instagram.com/max_limas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/maxuell-lima-dos-santos-8423671a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<a href="https://twitter.com/maxuell_lima" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/maxuell-lima-dos-santos-8423671a8/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/max_limas/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maxuelllima-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+
 
