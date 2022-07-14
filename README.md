@@ -28,6 +28,12 @@ Always open to new challenges and ready to face changes.
 
 <br><br>
 
+### Interests
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=flat-square&logo=typescript)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
 ## ⚙️ &nbsp;GitHub Analytics
