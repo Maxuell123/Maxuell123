@@ -7,7 +7,11 @@ I've been a Front-End developer since
 
 Always open to new challenges and ready to face changes.
 
-📫 How to reach me: mu_maxwell@hotmail.com
+- 😊 web development student
+- 🔥 Always ready to face new challenges
+- ❤️ In addition to being passionate about software development, I like to meet new people
+- 📫 How to reach me: mu_maxwell@hotmail.com
+- 📚 "It's hard to know what's possible until you see someone who can push the boundaries you know." - Chad Fowler
 
 ## 🛠 &nbsp;Tech Stack
 
