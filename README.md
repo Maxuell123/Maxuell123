@@ -35,7 +35,7 @@ Always open to new challenges and ready to face changes.
 
 - 💻 Node, git Bash
 
-- 🔥 Learning is continuous and there will always be a next level
+- 🎯 Learning is continuous and there will always be a next level
 
 ### Interests
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=flat-square&logo=typescript)
