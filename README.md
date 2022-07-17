@@ -1,7 +1,7 @@
 ### <h1 align="left">Hi , <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hello World</h1>
 <img align="right" src="https://raw.githubusercontent.com/gist/Maxuell123/2da42c424ed25d14e1681c708964d2ab/raw/eb91b3ac484dac47b235ebd9fda8e991ad6f13ca/card.svg">
 
-My name is Maxuell Lima dos Santos 🧑🇧🇷
+My name is Maxuell Lima dos Santos 🧑🏻‍💻
 
 I've been a Front-End developer since
 
