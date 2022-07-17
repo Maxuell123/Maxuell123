@@ -16,7 +16,7 @@ Always open to new challenges and ready to face changes.
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## 📉 &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=Maxuell123&show_icons=true&theme=vision-friendly-dark" alt="MaxuellLima's stats"/>
@@ -37,7 +37,7 @@ Always open to new challenges and ready to face changes.
 
 - 🎯 Learning is continuous and there will always be a next level
 
-### Interests
+### 🔮 Interests
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=flat-square&logo=typescript)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
