@@ -24,10 +24,9 @@ Always open to new challenges and ready to face changes.
 </p>
 
 
-
 <br><br>
   
-# Progress 👨‍💻
+# Progress 🚀
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
 
 - 🌱 I’m currently learning HTML, CSS, JS, REACT, PYTHON
@@ -36,7 +35,7 @@ Always open to new challenges and ready to face changes.
 
 - 💻 Node, git Bash
 
-- 🚀 Learning is continuous and there will always be a next level
+- 🔥 Learning is continuous and there will always be a next level
 
 ### Interests
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=flat-square&logo=typescript)
