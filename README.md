@@ -1,4 +1,4 @@
-### <h1 align="left">Hi , <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hello World</h1>
+### <h1 align="left">Hi,🖐🏻 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hello World</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Meu+nome+e+Maxuell+Lima;Tenho+30+anos;Estou+estudando+para+ser+Programador!!!)](https://git.io/typing-svg)
 
 My name is Maxuell Lima dos Santos 🧑🏻‍💻
